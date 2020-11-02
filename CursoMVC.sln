@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_NetCore", "MVC_NetCore\MVC_NetCore.csproj", "{E2643588-25DC-4D57-942B-542D017781EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{9C05439D-BA82-4D6E-9B69-85E904F0949D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2643588-25DC-4D57-942B-542D017781EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2643588-25DC-4D57-942B-542D017781EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2643588-25DC-4D57-942B-542D017781EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2643588-25DC-4D57-942B-542D017781EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C05439D-BA82-4D6E-9B69-85E904F0949D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C05439D-BA82-4D6E-9B69-85E904F0949D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C05439D-BA82-4D6E-9B69-85E904F0949D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C05439D-BA82-4D6E-9B69-85E904F0949D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A6E9954-C94E-43AD-8D11-3AFC740825C0}
+	EndGlobalSection
+EndGlobal
