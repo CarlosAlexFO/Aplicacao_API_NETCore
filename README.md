@@ -9,7 +9,11 @@ Utilizado conceitos de REST e o pacote Swagger.
 
 
 Foram utilizados os pacotes: 
+
 Entity Framework Core 3.1,
+
 EntityFramework Tools 3.1 para as Migrations,
+
 Entity Framework SQLServer 3.1 para o BD,
+
 Swashbuckle.AspNetCore para a criação da API .
